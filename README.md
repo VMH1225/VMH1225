@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with front-end development.
 - 💬 Ask me about sports!
 - 📫 How to reach me: huertavictor1225@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
